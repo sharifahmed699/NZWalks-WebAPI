@@ -1,3 +1,11 @@
+E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.csproj.AssemblyReference.cache
+E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.AssemblyInfoInputs.cache
+E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.AssemblyInfo.cs
+E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.csproj.CoreCompileInputs.cache
+E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.MvcApplicationPartsAssemblyInfo.cs
+E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.MvcApplicationPartsAssemblyInfo.cache
+E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.sourcelink.json
 E:\core\NZWalks\NZWalks.API\bin\Debug\net8.0\appsettings.Development.json
 E:\core\NZWalks\NZWalks.API\bin\Debug\net8.0\appsettings.json
 E:\core\NZWalks\NZWalks.API\bin\Debug\net8.0\NZWalks.API.exe
@@ -5,6 +13,7 @@ E:\core\NZWalks\NZWalks.API\bin\Debug\net8.0\NZWalks.API.deps.json
 E:\core\NZWalks\NZWalks.API\bin\Debug\net8.0\NZWalks.API.runtimeconfig.json
 E:\core\NZWalks\NZWalks.API\bin\Debug\net8.0\NZWalks.API.dll
 E:\core\NZWalks\NZWalks.API\bin\Debug\net8.0\NZWalks.API.pdb
+E:\core\NZWalks\NZWalks.API\bin\Debug\net8.0\AutoMapper.dll
 E:\core\NZWalks\NZWalks.API\bin\Debug\net8.0\Azure.Core.dll
 E:\core\NZWalks\NZWalks.API\bin\Debug\net8.0\Azure.Identity.dll
 E:\core\NZWalks\NZWalks.API\bin\Debug\net8.0\Humanizer.dll
@@ -114,14 +123,6 @@ E:\core\NZWalks\NZWalks.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Draw
 E:\core\NZWalks\NZWalks.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 E:\core\NZWalks\NZWalks.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 E:\core\NZWalks\NZWalks.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.csproj.AssemblyReference.cache
-E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.GeneratedMSBuildEditorConfig.editorconfig
-E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.AssemblyInfoInputs.cache
-E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.AssemblyInfo.cs
-E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.csproj.CoreCompileInputs.cache
-E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.MvcApplicationPartsAssemblyInfo.cs
-E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.MvcApplicationPartsAssemblyInfo.cache
-E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.sourcelink.json
 E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\staticwebassets.build.json
 E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\staticwebassets.development.json
 E:\core\NZWalks\NZWalks.API\obj\Debug\net8.0\staticwebassets\msbuild.NZWalks.API.Microsoft.AspNetCore.StaticWebAssets.props
