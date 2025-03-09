@@ -28,5 +28,14 @@ namespace NZWalks.API.Controllers
 
             return Ok(mapper.Map<WalkDto>(model));
         }
+
+        [HttpGet]
+
+        public async Task<IActionResult> GetAll()
+        {
+            var model=await  walkRepository.GetAllAsync();
+            return Ok(mapper.Map<List<Walk>>(model));
+        }
+
     }
 }
