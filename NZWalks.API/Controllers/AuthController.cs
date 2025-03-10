@@ -42,4 +42,23 @@ public class AuthController : ControllerBase
         return BadRequest("Something went wrong");
     }
 
+    [HttpPost]
+    [Route("Login")]
+
+    public async Task<IActionResult> Login([FromBody] LoginRequestDto dto)
+    {
+        var user = await userManager.FindByEmailAsync(dto.Username);
+
+        if(user != null)
+        {
+            var checkPassowrdResult = await userManager.CheckPasswordAsync(user, dto.Password);
+            if (checkPassowrdResult)
+            {
+                return Ok();
+            }
+        }
+
+        return BadRequest("UserName or Password Incorrect!");
+    }
+
 }
